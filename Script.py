@@ -10,8 +10,10 @@ class script(object):
 Its Simple To Use Me..☺️,Just Add Me To Your Group As Admin,Thats All I Will Provide Movies There..🥰
 
 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ <a href=https://t.me/SBKUNJAVA>Sʙ᭄𝕂𝕌ℕ𝕁𝔸𝕍𝔸࿐</a> | <a href=https://t.me/Film_House2>🔰ꜰɪʟᴍʜᴏᴜꜱᴇ🔰</a>"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """<b>HEY {} DUDE 🙋‍♂️
+Just Add To Your Group As Admin Its All.☺️,</b>
+<i>I Will Provide Movies There...⚡️</i>
+"""
     ABOUT_TXT = """<b>➥ My Name : Elon Musk 🇺🇲
 ➥ Dev : <a href=https://t.me/FILMHOUSE_Kerala2>FILMHOUSE</a>
 ➥ Creator : <a href=https://t.me/SBKUNJAVA>Sʙ᭄𝕂𝕌ℕ𝕁𝔸𝕍𝔸࿐</a>
